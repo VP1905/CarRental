@@ -22,7 +22,7 @@ namespace MaintainenceAPI.Services
                 Id = 2,
                 VehicleId = vehicleId,
                 RepairDate = DateTime.Now.AddDays(-40),
-                Description = "Brake pad replacement",
+                Description = "Brake pad replacement(Updated)",
                 Cost = 350.00m,
                 PerformedBy = "Auto Repair Pro"
             }
