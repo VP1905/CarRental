@@ -255,3 +255,4 @@ C:\Users\vansi\OneDrive\Desktop\Semester_6\CarRentalApplication\CarRentalAPI\bin
 C:\Users\vansi\OneDrive\Desktop\Semester_6\CarRentalApplication\CarRentalAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\vansi\OneDrive\Desktop\Semester_6\CarRentalApplication\CarRentalAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\vansi\OneDrive\Desktop\Semester_6\CarRentalApplication\CarRentalAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\vansi\OneDrive\Desktop\Semester_6\CarRentalApplication\CarRentalAPI\obj\Debug\net8.0\CarRentalAPI.sourcelink.json

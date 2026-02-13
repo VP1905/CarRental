@@ -255,3 +255,4 @@ C:\Users\vansi\OneDrive\Desktop\Semester_6\CarRentalApplication\InventoryAPI\obj
 C:\Users\vansi\OneDrive\Desktop\Semester_6\CarRentalApplication\InventoryAPI\obj\Debug\net8.0\InventoryAPI.pdb
 C:\Users\vansi\OneDrive\Desktop\Semester_6\CarRentalApplication\InventoryAPI\obj\Debug\net8.0\InventoryAPI.genruntimeconfig.cache
 C:\Users\vansi\OneDrive\Desktop\Semester_6\CarRentalApplication\InventoryAPI\obj\Debug\net8.0\ref\InventoryAPI.dll
+C:\Users\vansi\OneDrive\Desktop\Semester_6\CarRentalApplication\InventoryAPI\obj\Debug\net8.0\InventoryAPI.sourcelink.json
