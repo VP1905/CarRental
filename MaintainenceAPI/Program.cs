@@ -22,7 +22,9 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseAuthorization();
+app.UseAuthorization(); git push -u origin main
+git push -u origin main
+
 
 app.MapControllers();
 
