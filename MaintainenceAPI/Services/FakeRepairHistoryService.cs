@@ -13,7 +13,7 @@ namespace MaintainenceAPI.Services
                 Id = 1,
                 VehicleId = vehicleId,
                 RepairDate = DateTime.Now.AddDays(-10),
-                Description = "Oil change",
+                Description = "Oil change (updated)",
                 Cost = 89.99m,
                 PerformedBy = "Quick Lube"
             },
