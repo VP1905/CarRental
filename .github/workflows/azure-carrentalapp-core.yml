@@ -2,7 +2,7 @@ name: Build and deploy CarRentalApp MVC to Azure
 
 env:
   AZURE_WEBAPP_NAME: carrentalapp-vp26
-  DOTNET_VERSION: '8.x'
+  DOTNET_VERSION: '9.x'
 
 on:
   push:
@@ -54,5 +54,5 @@ jobs:
         uses: azure/webapps-deploy@v3
         with:
           app-name: carrentalapp-vp26
-          publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
+          publish-profile: ${{ secrets.AZURE_PUBLISH_PROFILE_CARRENTALAPP }}
           package: .
