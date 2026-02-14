@@ -1,8 +1,8 @@
 name: Build and deploy CarRentalApp MVC to Azure
 
 env:
-  AZURE_WEBAPP_NAME: carrental-mvc-26   # 🔴 change to your Azure MVC App name
-  DOTNET_VERSION: '9.x'
+  AZURE_WEBAPP_NAME: carrentalapp-vp26
+  DOTNET_VERSION: '8.x'
 
 on:
   push:
